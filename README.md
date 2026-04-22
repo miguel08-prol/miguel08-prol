@@ -9,16 +9,7 @@
   </a>
 
   <p align="center">
-    📍 Brasil
-  </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/seu-linkedin/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:seu-email@exemplo.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+    📍 São Paulo, Brasil
   </p>
 
 </div>
@@ -69,22 +60,33 @@ Tenho 17 anos e sou apaixonado por tecnologia e programação. Atualmente, curso
 
 ---
 
-### 📈 Minhas Estatísticas
+### 💻 Projetos em Destaque
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=radical&no-frame=true&column=7" alt="github profile trophy" />
+Aqui estão algumas das aplicações que venho desenvolvendo ao longo dos meus estudos. Fique à vontade para explorar os repositórios!
+
+<div align="center">
+  <a href="https://github.com/SEU-USUARIO/NOME-DO-REPO-MAINTSYS">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-MAINTSYS&theme=vision-friendly-dark&show_owner=true" />
   </a>
-</p>
+  <a href="https://github.com/SEU-USUARIO/NOME-DO-REPO-PNEUMO">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-PNEUMO&theme=vision-friendly-dark&show_owner=true" />
+  </a>
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=github-dark&hide_border=true&area=true" width="100%" />
-</p>
+### 📫 Vamos nos conectar?
+
+Se você tem interesse em tecnologia, quer trocar ideias sobre desenvolvimento web ou tem uma oportunidade legal, sinta-se à vontade para me contatar:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
