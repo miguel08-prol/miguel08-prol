@@ -66,10 +66,10 @@ Aqui estão algumas das aplicações que venho desenvolvendo ao longo dos meus e
 
 <div align="center">
   <a href="https://github.com/SEU-USUARIO/NOME-DO-REPO-MAINTSYS">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-MAINTSYS&theme=vision-friendly-dark&show_owner=true" />
+    <img height="120em" src="[https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-MAINTSYS&theme=vision-friendly-dark&show_owner=true](https://github.com/miguel08-prol/miguel08-prol/blob/main/Captura%20de%20tela%202026-04-22%20155650.png)" />
   </a>
   <a href="https://github.com/SEU-USUARIO/NOME-DO-REPO-PNEUMO">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-PNEUMO&theme=vision-friendly-dark&show_owner=true" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-PNEUMO&theme=vision-friendly-dark&show_owner=true](https://github.com/miguel08-prol/miguel08-prol/blob/main/Captura%20de%20tela%202026-04-22%20155650.png" />
   </a>
 </div>
 
