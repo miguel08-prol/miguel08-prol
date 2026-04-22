@@ -65,11 +65,11 @@ Tenho 17 anos e sou apaixonado por tecnologia e programação. Atualmente, curso
 Aqui estão algumas das aplicações que venho desenvolvendo ao longo dos meus estudos. Fique à vontade para explorar os repositórios!
 
 <div align="center">
-  <a href="https://github.com/miguel08-prol/MaintSys">
+  <a>
     <img height="180em" src="https://github.com/miguel08-prol/miguel08-prol/blob/main/Captura%20de%20tela%202026-04-22%20155650.png?raw=true" alt="MaintSys Dashboard" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.4); margin: 5px;"/>
   </a>
 
-  <a href="https://github.com/miguel08-prol/MaintSys">
+  <a>
     <img height="180em" src="https://github.com/miguel08-prol/miguel08-prol/blob/main/Captura%20de%20tela%202026-04-22%20155716.png?raw=true" alt="MaintSys Login" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.4); margin: 5px;"/>
   </a>
 </div>
