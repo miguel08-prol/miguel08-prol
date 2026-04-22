@@ -12,6 +12,15 @@
     📍 Brasil
   </p>
 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/seu-linkedin/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:seu-email@exemplo.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
 </div>
 
 ---
@@ -60,32 +69,37 @@ Tenho 17 anos e sou apaixonado por tecnologia e programação. Atualmente, curso
 
 ---
 
-### 🐍 Minhas Contribuições (GitHub Snake)
-
-Abaixo, o histórico das minhas contribuições no GitHub e projetos desenvolvidos:
+### 📈 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=radical&no-frame=true&column=7" alt="github profile trophy" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=github-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-### 📫 Vamos nos conectar?
+### 🐍 GitHub Snake
 
-Gosta de tecnologia, quer discutir sobre desenvolvimento web ou tem uma oportunidade de projeto legal? Fique à vontade para me mandar uma mensagem pelas minhas redes abaixo:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/escritor2/escritor2/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+---
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=38B2AC&style=flat-square" alt="Profile views" />
+</p>
 
 <div align="center">
-  <i>"O aprendizado é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."</i><br>
-  — <b>Leonardo da Vinci</b>
+  <i>"Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos entendam."</i> - Martin Fowler
 </div>
