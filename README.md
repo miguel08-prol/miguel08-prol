@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2000&auto=format&fit=crop" alt="Banner Miguel" width="100%" style="border-radius: 15px; margin-bottom: 20px; object-fit: cover; height: 200px;">
+  <img src="Image/Perfil.png" alt="Banner Miguel" width="100%" style="border-radius: 15px; margin-bottom: 20px; object-fit: cover; height: 200px;">
 
   # 👨‍💻 Olá, eu sou o Miguel! 👋
 
@@ -72,15 +72,33 @@ Tenho 17 anos e sou apaixonado por tecnologia e programação. Atualmente, curso
 Aqui estão algumas das aplicações que venho desenvolvendo ao longo dos meus estudos. Fique à vontade para explorar os repositórios!
 
 <div align="center">
-  <a>
-    <img height="180em" src="https://github.com/miguel08-prol/miguel08-prol/blob/main/Captura%20de%20tela%202026-04-22%20155650.png?raw=true" alt="MaintSys Dashboard" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.4); margin: 5px;"/>
-  </a>
-
-  <a>
-    <img height="180em" src="https://github.com/miguel08-prol/miguel08-prol/blob/main/Captura%20de%20tela%202026-04-22%20155716.png?raw=true" alt="MaintSys Login" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.4); margin: 5px;"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="#">
+          <img src="Image/ProjetoAethel1.png" alt="MaintSys Dashboard" width="380" style="border-radius: 8px;" />
+        </a>
+      </td>
+      <td>
+        <a href="#">
+          <img src="Image/ProjetoAethel2.png" alt="MaintSys Login" width="380" style="border-radius: 8px;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#">
+          <img src="Image/MaintSys.png" alt="MaintSys Dashboard" width="380" style="border-radius: 8px;" />
+        </a>
+      </td>
+      <td>
+        <a href="#">
+          <img src="Image/MaintSys..png" alt="MaintSys Login" width="380" style="border-radius: 8px;" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
 ---
 
 ### 📫 Vamos nos conectar?
