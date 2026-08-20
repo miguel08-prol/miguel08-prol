@@ -4,9 +4,9 @@
 
   # 👨‍💻 Olá, eu sou o Miguel! 👋
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas+%40SENAI;Foco+em+React%2C+Laravel+e+APIs" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas+SENAI;Foco+em+React%2C+Laravel+e+APIs" alt="Typing SVG" />
+</a>
 
   <p align="center">
     📍 São Paulo, Brasil
@@ -119,7 +119,7 @@ Se você tem interesse em tecnologia, quer trocar ideias sobre desenvolvimento w
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/escritor2/escritor2/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/abozanona/pacman-contribution-graph/raw/main/assets/demo/galaga.svg" alt="Snake Animation" />
 </p>
 
 ---
