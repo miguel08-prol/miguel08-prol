@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="Image/Perfil.png" alt="Banner Miguel" width="100%" style="border-radius: 15px; margin-bottom: 20px; height: auto; display: block;">
+  <img src="Image/Perfil..png" alt="Banner Miguel" width="100%" style="border-radius: 15px; margin-bottom: 20px; height: auto; display: block;">
 
   # 👨‍💻 Olá, eu sou o Miguel! 👋
 
