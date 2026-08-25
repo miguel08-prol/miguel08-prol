@@ -116,7 +116,7 @@ Se você tem interesse em tecnologia, quer trocar ideias sobre desenvolvimento w
 
 ---
 
-### 🐍 GitHub Snake
+### 🚀 GitHub Spaceship
 
 <p align="center">
   <img src="https://github.com/abozanona/pacman-contribution-graph/raw/main/assets/demo/galaga.svg" alt="Snake Animation" />
