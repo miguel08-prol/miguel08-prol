@@ -76,7 +76,7 @@ Aqui estão algumas das aplicações que venho desenvolvendo ao longo dos meus e
     <tr>
       <td>
         <a href="#">
-          <img src="Image/ProjetoAethel1..png" alt="MaintSys Dashboard" width="380" style="border-radius: 8px;" />
+          <img src="Image/ProjetoAethel..png" alt="MaintSys Dashboard" width="380" style="border-radius: 8px;" />
         </a>
       </td>
       <td>
